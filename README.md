@@ -6,6 +6,8 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tags HTML5: https://www.w3schools.com/tags/default.asp</p>
 <p>Propriedades CSS3: https://www.w3schools.com/cssref/</p>
 <p>Tabela de cores HTML: https://www.flextool.com.br/tabela_cores.html</p>
+<p>Informações sobre box-sizing: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing</p>
+<p>Tabela de caracteres unicode: https://unicode-table.com</p>
 
 <h2>Cronograma da oficina</h2>
 <p>Horário: 08:40 até 9:40
