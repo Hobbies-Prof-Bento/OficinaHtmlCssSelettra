@@ -1,0 +1,28 @@
+header {
+    background: url("../img/bg.jpg");
+}
+.caixa{
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+.imagem-cabecalho{
+    width: 25%;
+}
+nav {
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+nav li{
+    display: inline;
+        /*  cima dir  baixo esq  */
+    margin: 0     0    0    15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
