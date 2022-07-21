@@ -33,7 +33,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <details><summary><h3><h3>Etapa II: Posicionamento</h3></h3></summary>
   <h4>Parte I</h4>
   <h4>Terça-feira dia 19/07/2022</h4> 
-   <h5>Gravação: https://youtu.be/3TrmSuv3A9A</h5>
+  <h5>Gravação: https://youtu.be/3TrmSuv3A9A</h5>
   <p>Conteúdo:</p>
   <p>- Estrutura da página HTML;</p>
   <p>- Navegação entre outras páginas;</p>
@@ -41,6 +41,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
   <h4>Parte II</h4>
   <h4>Quinta-feira dia 21/07/2022</h4>
+  <h5>Gravação: https://youtu.be/TprMbitqHGI</h5>
   <p>Conteúdo: </p>
   <p>- diferença entre inline e block;</p>
   <p>- bordas e pseudo-classes. </p>
