@@ -54,12 +54,18 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <details><summary><h3>Etapa III: Formulários e tabelas</h3></summary>
   <h4>Parte I</h4>
   <h4>>Quinta-feira dia 28/07/2022</h4>
+  <h5>Gravação: https://youtu.be/XBuDjoUUp8Y</h5>  
+  <p>Conteúdo:</p>
+  <p>- Formulários;</p>  
+
+  <h4>Parte II</h4>
+  <h4>Terça-feira dia 09/08/2022</h4>    
   <p>Conteúdo:</p>
   <p>- Formulários;</p>
   <p>- Tabelas;</p>
 
-  <h4>Parte II</h4>
-  <h4>Terça-feira dia 09/08/2022</h4>
+  <h4>Parte III</h4>
+  <h4>>Quinta-feira dia 11/08/2022</h4>
   <p>Conteúdo: </p>
   <p>- Hierarquia;</p>
   <p>- Transformações e transições. </p>
@@ -67,12 +73,12 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
 <details><summary><h3>Etapa IV: Avançando no CSS</h3></summary>
   <h4>Parte I</h4>
-  <h4>Quinta-feira dia 11/08/2022</h4>
+  <h4>Terça-feira dia 16/08/2022</h4>
   <p>- Adaptação da página inicial;</p>
   <p>- Importação de conteúdos externos ao HTML (fontes, vídeos e mapas);</p>
 
   <h4>Parte II</h4>
-  <h4>Terça-feira dia 16/08/2022</h4>
+  <h4>Quinta-feira dia 18/08/2022</h4>
   <p>Conteúdo: </p>
   <p>- Pseudo-classes e pseudo-elementos;</p>
   <p>- Seletores avançados;</p>
