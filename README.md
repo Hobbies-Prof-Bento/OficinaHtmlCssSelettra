@@ -8,6 +8,10 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tabela de cores HTML: https://www.flextool.com.br/tabela_cores.html</p>
 <p>Informações sobre box-sizing: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing</p>
 <p>Tabela de caracteres unicode: https://unicode-table.com</p>
+<p>Tipos de inputs para mobile: http://mobileinputtypes.com/</p>
+<p>Como mesclar linhas de tabelas: https://www.w3schools.com/tags/att_td_rowspan.asp</p>
+<p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
+
 
 <h2>Cronograma da oficina</h2>
 <p>Horário: 08:40 até 9:40
@@ -49,13 +53,13 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
 <details><summary><h3>Etapa III: Formulários e tabelas</h3></summary>
   <h4>Parte I</h4>
-  <h4>Terça-feira dia 26/07/2022</h4>
+  <h4>>Quinta-feira dia 28/07/2022</h4>
   <p>Conteúdo:</p>
   <p>- Formulários;</p>
   <p>- Tabelas;</p>
 
   <h4>Parte II</h4>
-  <h4>Quinta-feira dia 28/07/2022</h4>
+  <h4>Terça-feira dia 09/08/2022</h4>
   <p>Conteúdo: </p>
   <p>- Hierarquia;</p>
   <p>- Transformações e transições. </p>
@@ -63,12 +67,12 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
 <details><summary><h3>Etapa IV: Avançando no CSS</h3></summary>
   <h4>Parte I</h4>
-  <h4>Terça-feira dia 02/08/2022</h4>
+  <h4>Quinta-feira dia 11/08/2022</h4>
   <p>- Adaptação da página inicial;</p>
   <p>- Importação de conteúdos externos ao HTML (fontes, vídeos e mapas);</p>
 
   <h4>Parte II</h4>
-  <h4>Quinta-feira dia 04/08/2022</h4>
+  <h4>Terça-feira dia 16/08/2022</h4>
   <p>Conteúdo: </p>
   <p>- Pseudo-classes e pseudo-elementos;</p>
   <p>- Seletores avançados;</p>
