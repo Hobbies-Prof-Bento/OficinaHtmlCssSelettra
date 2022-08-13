@@ -9,6 +9,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Informações sobre box-sizing: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing</p>
 <p>Tabela de caracteres unicode: https://unicode-table.com</p>
 <p>Tipos de inputs para mobile: http://mobileinputtypes.com/</p>
+<p>Propriedades textarea: https://www.w3schools.com/tags/tag_textarea.asp</p>
 <p>Como mesclar linhas de tabelas: https://www.w3schools.com/tags/att_td_rowspan.asp</p>
 <p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
 
@@ -57,17 +58,19 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
   <h5>Gravação: https://youtu.be/XBuDjoUUp8Y</h5>  
   <p>Conteúdo:</p>
   <p>- Formulários;</p>  
-
+  
   <h4>Parte II</h4>
-  <h4>Qiinta-feira dia 11/08/2022</h4>    
+  <h4>Qiinta-feira dia 11/08/2022</h4>  
+  <h5>Gravação: https://youtu.be/gmmiAfeLL10 </h5>
+   
   <p>Conteúdo:</p>
-  <p>- Formulários;</p>
-  <p>- Tabelas;</p>
+  <p>- Hierarquia;</p>
+  <p>- Formulários;</p>  
 
   <h4>Parte III</h4>
   <h4>>Terça-feira dia 16/08/2022</h4>
   <p>Conteúdo: </p>
-  <p>- Hierarquia;</p>
+  <p>- Tabela; </p>
   <p>- Transformações e transições. </p>
 </details>
 

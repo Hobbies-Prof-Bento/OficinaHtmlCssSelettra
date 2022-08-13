@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8" />
-        <title>Selettra Gourmet - Produtos</title>
+        <title>Selettra Gourmet - Contato</title>
         <link rel="icon" href="../img/logo_bola.png" />
         <link rel="stylesheet" href="../css/reset.css" />
         <link rel="stylesheet" href="../css/cabecalho_rodape.css"/>
@@ -24,15 +24,38 @@
         <main>
             <form>
                 <label for="nome">Nome e Sobrenome</label>
-                <input id="nome" type="text" placeholder="Digite seu nome" />
+                <input class="input-padrao" id="nome" type="text" placeholder="Digite seu nome" alt="insira o nome" required />
 
                 <label for="email">Email</label>
-                <input id="email" type="email" placeholder="email@dominio.com" />
+                <input class="input-padrao" id="email" type="email" placeholder="email@dominio.com" alt="insira o email" required />
 
                 <label for="telefone">Telefone</label>
-                <input id="telefone" type="text" placeholder="(XX) XXXXXXXXXXX" />
+                <input class="input-padrao" id="telefone" type="text" placeholder="(XX) XXXXXXXXXXX" alt="insira o telefone" required />
+
+                <label for="mensagem">Mensagem</label>
+                <textarea class="input-padrao" id="mensagem" cols="70" rows="10"></textarea>
+
+                <fieldset>
+                    <legend>Como prefere nosso contato?</legend>
+                    <label for="radio-email"><input id="radio-email" name="contato" type="radio" />Email</label>
+                    <label for="radio-telefone"><input id="radio-telefone" name="contato" type="radio" />Telefone</label>
+                    <label for="radio-whatsapp"><input id="radio-whatsapp" name="contato" type="radio" checked />Whatsapp</label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Qual horário prefere ser atendido?</legend>
+                    <select>
+                        <option>Manhã</option>
+                        <option>tarde</option>
+                        <option>Noite</option>
+                    </select>
+                </fieldset>
+
+                <label><input class="checkbox" type="checkbox" checked /> Gostaria de receber nossas novidades por email?</label>
 
                 <input type="submit" value="Enviar Formulário" />
+
+                
             </form>          
         </main>
         <footer>
