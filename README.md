@@ -10,6 +10,8 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Tabela de caracteres unicode: https://unicode-table.com</p>
 <p>Tipos de inputs para mobile: http://mobileinputtypes.com/</p>
 <p>Propriedades textarea: https://www.w3schools.com/tags/tag_textarea.asp</p>
+<p>Propriedades transition: https://www.w3schools.com/css/css3_transitions.asp</p>
+<p>Propriedades transform: https://www.w3schools.com/cssref/css3_pr_transform.asp</p>
 <p>Como mesclar linhas de tabelas: https://www.w3schools.com/tags/att_td_rowspan.asp</p>
 <p>Como mesclar colunas de tabelas: https://www.w3schools.com/tags/att_td_colspan.asp</p>
 
@@ -69,6 +71,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 
   <h4>Parte III</h4>
   <h4>>Terça-feira dia 16/08/2022</h4>
+  <h5>Gravação: https://youtu.be/C0IEdMaDEsI </h5>
   <p>Conteúdo: </p>
   <p>- Tabela; </p>
   <p>- Transformações e transições. </p>

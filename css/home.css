@@ -1,0 +1,12 @@
+.sobre{
+    background: yellow;    
+    text-align: center;
+}
+.sobre h1{
+    font-weight: bold;
+    font-size: 22px;
+    margin: 20px auto;    
+}
+.beneficios{
+    background: pink;
+}
