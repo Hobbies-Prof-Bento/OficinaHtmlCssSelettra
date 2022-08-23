@@ -20,7 +20,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
 <p>Informações sobre pseudo-elementos: https://www.w3schools.com/css/css_pseudo_elements.asp</p>
 
 <h2>Cronograma da oficina</h2>
-<p>Horário: 08:40 até 9:40
+<p>Horário: 08:40 até 9:40</p>
 
 <details><summary><h3>Etapa I: Início do projeto</h3></summary>
   <h4>Parte I</h4>
