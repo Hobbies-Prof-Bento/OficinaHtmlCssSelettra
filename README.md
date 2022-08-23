@@ -66,8 +66,7 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
   
   <h4>Parte II</h4>
   <h4>Qiinta-feira dia 11/08/2022</h4>  
-  <h5>Gravação: https://youtu.be/gmmiAfeLL10 </h5>
-   
+  <h5>Gravação: https://youtu.be/gmmiAfeLL10 </h5>   
   <p>Conteúdo:</p>
   <p>- Hierarquia;</p>
   <p>- Formulários;</p>  
@@ -84,12 +83,14 @@ Repositório para que os participantes da oficina possam acompanhar o desenvolvi
   <h4>Parte I</h4>
   <h4>Quinta-feira dia 18/08/2022</h4>
   <h5>Gravação: https://youtu.be/woxhEfzfjew </h5>
+  <p>Conteúdo: </p>
   <p>- Adaptação da página inicial;</p>
   <p>- Importação de conteúdos externos ao HTML (fontes, vídeos e mapas);</p>
 
   <h4>Parte II</h4>
   <h4>Terça-feira dia 23/08/2022</h4>
-  <p>Conteúdo: </p>
+  <h5>Gravação:  </h5>
+  <p>Conteúdo: https://youtu.be/h6oGbUu_WnM</p>
   <p>- Pseudo-classes e pseudo-elementos;</p>
   <p>- Seletores avançados;</p>
   <p>- Opacidade e sombra;</p>
